@@ -1,0 +1,58 @@
+.heading{
+  margin-top:   10rem;
+  font-size: 5rem;
+  color: #fca652;
+  font-family: 'Acme', sans-serif;
+  font-weight: bolder;
+}
+
+h2{
+  color: #fca652;
+  font-family: 'Acme', sans-serif;
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+
+
+body{
+  margin: auto;
+  background-color: #000;
+  text-align: center;
+}
+
+
+.btnself{
+
+  height: 50px;
+  width: 150px;
+  background-color: #000;
+  border-radius: 15px;
+  font-size: 1.5rem;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #fff;
+  border-color: #edc988;
+}
+
+
+.b2{
+  margin-top: 30px;
+}
+
+.btnself:hover{
+  height: 60px;
+  width: 180px;
+  background-color: #fecb89;
+  font-family: 'Acme';
+  transition:  .3s ease-in-out;
+  font-size: 1.7rem;
+  color: #000;
+}
+
+
+.foot{
+  margin-top: 10rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  color: #fff;
+}
